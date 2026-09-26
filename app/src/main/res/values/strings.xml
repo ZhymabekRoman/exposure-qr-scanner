@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exposure QR</string>
+    <string name="engine_zxing">ZXing-C++ (FOSS)</string>
+    <string name="engine_mlkit">Google ML Kit</string>
+    <string name="exposure_label">Exposure (EV)</string>
+    <string name="torch_on">Torch ON</string>
+    <string name="torch_off">Torch OFF</string>
+    <string name="camera_permission_required">Camera permission is required to scan QR codes.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="copy_result">Copy</string>
+    <string name="open_link">Open</string>
+    <string name="dismiss">Dismiss</string>
+</resources>

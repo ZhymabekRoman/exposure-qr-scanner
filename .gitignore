@@ -8,3 +8,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+.kotlin
+build/
+*/build/
+.gradle/
+.kotlin/
+local.properties
